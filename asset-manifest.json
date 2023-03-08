@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-keyz/static/css/main.2b0065d3.css",
+    "main.js": "/react-keyz/static/js/main.1e292341.js",
+    "index.html": "/react-keyz/index.html",
+    "main.2b0065d3.css.map": "/react-keyz/static/css/main.2b0065d3.css.map",
+    "main.1e292341.js.map": "/react-keyz/static/js/main.1e292341.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b0065d3.css",
+    "static/js/main.1e292341.js"
+  ]
+}
